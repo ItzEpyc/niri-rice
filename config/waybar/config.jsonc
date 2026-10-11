@@ -1,0 +1,63 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 34,
+    "margin": "5 10 2 10",
+    "spacing": 0,
+
+    "modules-left": ["custom/menuu", "niri/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["pulseaudio", "niri/language", "network", "custom/power", "tray"],
+    
+    "custom/menuu": {
+        "format": " 󱄅 ",
+        "on-click": "rofi -show drun"
+    },  
+
+    "niri/workspaces": {
+        "format": "{index}",
+        "all-outputs": true,
+        "disable-scroll": true,
+        "persistent-workspaces": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": []
+        }
+    },
+
+    "niri/language": {
+        "format": "{}",
+        "format-en": "EN",
+        "format-ru": "RU"
+    },
+
+    "clock": {
+        "format": "  {:%H:%M}"
+    },
+
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-icons": { "default": [" ", " "] },
+        "on-click": "pavucontrol"
+    },
+
+    "network": {
+        "format-wifi": " ",
+        "format-disconnected": "⚠",
+        "on-click": "sh /home/user/bin/wifimenu"
+    },
+    
+    "custom/power": {
+        "format": " ⏻ ",
+        "tooltip": false,
+        "on-click": "sh /home/user/bin/powermenu"
+    },
+
+    "tray": {
+        "spacing": 2
+    }
+}

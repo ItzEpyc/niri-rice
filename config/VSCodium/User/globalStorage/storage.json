@@ -1,0 +1,87 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "5ae56eeef90fbe444dc671f374b401ab58c1c09fb90c4df51ff730be29366eef",
+    "telemetry.devDeviceId": "c9d1f011-b048-462f-a28a-27fd31921faa",
+    "backupWorkspaces": {
+        "workspaces": [
+            {
+                "id": "3e2f7940bfbfe76726f0de4b33619ff2",
+                "configURIPath": "file:///home/user/.config/VSCodium/Workspaces/1791627875538/workspace.json"
+            }
+        ],
+        "folders": [],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/user/.config/niri": "__default__profile__",
+            "file:///home/user/.config/VSCodium/Workspaces/1791627875538/workspace.json": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282a36",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f8f8f2",
+            "background": "#282a36",
+            "editorBackground": "#282a36",
+            "titleBarBackground": "#21222c",
+            "activityBarBackground": "#343746",
+            "sideBarBackground": "#21222c",
+            "panelBackground": "#282a36",
+            "editorGroupBorder": "#bd93f9",
+            "agentsPanelBackground": "#21222c",
+            "agentsPanelBorder": "rgba(248, 248, 242, 0.15)",
+            "statusBarBackground": "#191a21",
+            "statusBarNoFolderBackground": "#191a21"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false,
+            "modernUI": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "3e2f7940bfbfe76726f0de4b33619ff2",
+                "configURIPath": "file:///home/user/.config/VSCodium/Workspaces/1791627875538/workspace.json"
+            },
+            "backupPath": "/home/user/.config/VSCodium/Backups/3e2f7940bfbfe76726f0de4b33619ff2",
+            "uiState": {
+                "mode": 1,
+                "x": 16,
+                "y": 10,
+                "width": 1348,
+                "height": 708
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "d4d816f06cb0300f0ffe91fed0d6380e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3e2f7940bfbfe76726f0de4b33619ff2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

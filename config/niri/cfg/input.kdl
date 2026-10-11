@@ -1,0 +1,28 @@
+gestures {
+    hot-corners {
+	off
+    }
+}
+
+input {
+    keyboard {
+        xkb {
+            layout "us,ru"
+            options "grp:win_space_toggle" 
+        }
+
+    }
+
+    touchpad {
+        natural-scroll
+        accel-speed 0
+        accel-profile "flat"
+    }
+
+    mouse {
+        accel-speed -0.2
+        accel-profile "flat"
+    }
+
+    focus-follows-mouse max-scroll-amount="100%"
+}

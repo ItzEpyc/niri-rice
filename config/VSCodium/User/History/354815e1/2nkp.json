@@ -1,0 +1,15 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Dracula Colorful",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'JetBrains Mono', 'bold', bold",
+    "editor.fontSize": 20,
+    "workbench.tree.indent": 14,
+    "workbench.activityBar.location": "hidden",
+    "editor.tabSize": 4,
+    "files.autoSave": "afterDelay",
+    "update.mode": "none",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+
+}

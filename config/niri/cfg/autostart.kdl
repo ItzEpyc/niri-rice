@@ -1,0 +1,2 @@
+spawn-at-startup "waybar"
+spawn-sh-at-startup "swaybg -i /home/user/Images/default.png"

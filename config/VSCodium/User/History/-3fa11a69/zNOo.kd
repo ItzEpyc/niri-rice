@@ -1,0 +1,8 @@
+include "./cfg/animations.kdl"
+include "./cfg/autostart.kdl"
+include "./cfg/binds.kdl"
+include "./cfg/display.kdl"
+include "./cfg/input.kdl"
+include "./cfg/layout.kdl"
+include "./cfg/misc.kdl"
+include "./cfg/rule.kdl"
